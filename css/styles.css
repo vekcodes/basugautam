@@ -4444,3 +4444,8 @@ td:last-child {
 .img-2{
     height: 500px;
 }
+.more-photos{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
